@@ -56,7 +56,7 @@ Make sure you have Node.js (version 18.x or higher) and npm installed on your sy
 
 2.  **Navigate to the project directory:**
     ```sh
-    cd automotive-showcase
+    cd FUTURE_FS_03
     ```
 
 3.  **Install the dependencies:**
