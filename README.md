@@ -51,7 +51,7 @@ Make sure you have Node.js (version 18.x or higher) and npm installed on your sy
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/nadhish2023/automotive-showcase.git
+    git clone https://github.com/nadhish2023/FUTURE_FS_03.git
     ```
 
 2.  **Navigate to the project directory:**
