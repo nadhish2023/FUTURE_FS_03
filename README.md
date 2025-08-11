@@ -5,7 +5,7 @@
 
 > This is a conceptual portfolio project designed to showcase advanced frontend development skills. **This website is not affiliated with, nor endorsed by, BMW AG.** All assets used are for educational and demonstrative purposes only.
 
-**Live Demo URL:** [https://automotive-showcase.vercel.app/](https://automotive-showcase.vercel.app/) 
+**Live Demo URL:** [https://automotive-showcase-steel.vercel.app/](https://automotive-showcase-steel.vercel.app/) 
 
 ---
 
